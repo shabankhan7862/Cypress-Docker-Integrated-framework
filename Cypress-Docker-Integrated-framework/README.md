@@ -17,7 +17,7 @@ This Git repository showcases a powerful and flexible framework designed to enha
 
 * Clone the Repo:
 ```
-    git clone https://github.com/MuhammadHaseeb47/Cypress-Docker-Integrated-framework.git
+    git clone (https://github.com/shabankhan7862/Cypress-Docker-Integrated-framework.git)
 ```
 * Download NodeModules
 ```
@@ -80,14 +80,5 @@ https://www.docker.com/products/docker-desktop/
 
 * Check Docker Desktop app and observe the containers are running in containers tab on the left side
 
+```
 
-## Authors
-
-Muhammad Haseeb
-```
-haseebshafiq47@gmail.com
-```
-```
-https://www.linkedin.com/in/muhammad-haseeb47/
-
-```
