@@ -4,7 +4,7 @@ In this project I implemented Page Object Model and integrated Docker in it.
 
 ## Description
 
-Welcome to the Docker-Integrated Framework repository by Muhammad Haseeb (haseebshafiq47@gmail.com). This Git repository showcases a powerful and flexible framework designed to enhance the development process by seamlessly integrating Docker into your workflow. With this framework, you can effortlessly manage and deploy containerized applications, making testing a breeze.
+This Git repository showcases a powerful and flexible framework designed to enhance the development process by seamlessly integrating Docker into your workflow. With this framework, you can effortlessly manage and deploy containerized applications, making testing a breeze.
 
 ## Getting Started
 
@@ -89,4 +89,5 @@ haseebshafiq47@gmail.com
 ```
 ```
 https://www.linkedin.com/in/muhammad-haseeb47/
+
 ```
